@@ -27,5 +27,6 @@ Added support for:
 - ext2/3/4
 - btrfs
 - dosfs
+- android USB tethering
 
 Probably more stuff I already forgot....
